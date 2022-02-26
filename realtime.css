@@ -1,0 +1,12 @@
+.container{
+    margin: 1%;
+    padding: 1%;
+    background-color: rgb(255, 194, 125);
+    text-align: center;
+    border: 4px solid grey;
+    font-family: sans-serif;
+}
+
+span{
+    font-weight: bolder;
+}
